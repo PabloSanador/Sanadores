@@ -117,6 +117,8 @@
         <div class="col-md-6">
             <h2>Sobre Mí</h2>
             <p>Soy Eduardo Pazos-Torres, un sanador dedicado a ayudar a las personas a encontrar equilibrio y bienestar a través de técnicas holísticas avanzadas. He estudiado con los mejores sanadores del mundo y he participado en seminarios y workshops en países como México, Estados Unidos, Argentina, Perú y Colombia.</p>
+            <p>Después de Colombia escribimos: en mis canalizaciones he creado el Sistema más avanzado de meditación que da paz,salud,armonía y felicidad general en forma de euforia y regocijo.</p>
+            <p>Lo he llamado GPS GAMMA PRIZE SAMADHI,para alcanzar los más altos niveles de Samadhi sobre la tierra. En los cursos avanzados enseño GPS TURBO,el más elevado niveles de meditación para estar en armonía y en iluminación varias horas durante el día</p>
             <p>Mi enfoque se basa en métodos probados que integran mente, cuerpo y espíritu para promover la sanación natural y el crecimiento personal.</p>
         </div>
         <div class="col-md-6 image">
